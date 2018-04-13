@@ -23,6 +23,8 @@ body{
 	position: absolute;
 	left:380px; top: 30px;
 	background: url(../img/LLPhoto.jpg) no-repeat 2px 2px;
+	border: 2px solid black;
+	box-shadow: 2px 2px 6px 6px gray;
 	border-radius: 100px;
 	background-size: 200px;
 }
